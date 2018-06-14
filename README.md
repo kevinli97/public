@@ -1,2 +1,3 @@
 # public
-This is a test public file.
+Welcome!
+This is a Kevin Li's Git Repo.
